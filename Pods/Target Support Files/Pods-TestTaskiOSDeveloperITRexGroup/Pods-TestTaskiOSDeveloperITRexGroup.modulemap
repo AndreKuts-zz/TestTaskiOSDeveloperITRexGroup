@@ -1,0 +1,6 @@
+framework module Pods_TestTaskiOSDeveloperITRexGroup {
+  umbrella header "Pods-TestTaskiOSDeveloperITRexGroup-umbrella.h"
+
+  export *
+  module * { export * }
+}
