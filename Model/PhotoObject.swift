@@ -10,7 +10,7 @@
 import RealmSwift
 import CoreLocation
 
-
+// Class
 class Photo: Object {
     
     @objc dynamic var name = ""
